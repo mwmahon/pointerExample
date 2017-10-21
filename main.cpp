@@ -43,6 +43,8 @@ int main(void)
     /**< value of div and mod after function call */
     cout << "After function call:  div = " << div << ", mod = " << mod << endl;
 
+    cout << "Baa!";
+
     /**< display results */
     cout << "\n" << num1 << " / " << num2 << " = " << div << endl;
     cout << num1 << " % " << num2 << " = " << mod << endl;
