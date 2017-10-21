@@ -4,6 +4,7 @@
  *  mike mahon
  *  pointerFunctionExample.cpp
  *  c++ program to illustrate the use of pointers with functions
+ *  today's date is 21/10/17
  */
 
 
